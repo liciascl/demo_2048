@@ -88,7 +88,4 @@ O projeto deve ser enviado via GitHub Classroom, com:
 
 1. O código-fonte completo comentado.
 2. Um arquivo `README.md` explicando como rodar o jogo e descrever brevemente as funcionalidades implementadas.
-3. (Opcional) Um vídeo curto mostrando o jogo em execução.
-=======
-# demo_2048
->>>>>>> 99a6e81141f7606eea492c7f6783f5738dc88ec3
+3. Um vídeo curto mostrando o jogo em execução (pode ser um link do youtube).
