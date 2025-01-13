@@ -7,6 +7,9 @@ A cada movimento do jogador, um novo bloco com o valor **2** ou **4** aparece em
 
 ![2048](img/image.png)
 
+| 💡 **Dica:** |
+|--------------|
+| Se quiser testar o jogo, com uma busca no Google você consegue achar vários sites que disponibilizam o jogo gratuitamente. [Um deles é esse aqui](https://2048game.com/pt/). |
 
 
 #### **Descrição do Projeto**
